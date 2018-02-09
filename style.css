@@ -1,0 +1,17 @@
+.main-content{
+    max-width: 900px;
+    margin-left: auto;
+    margin-right:auto;
+    text-align: justify;
+    padding: 10px 50px 10px 50px; 
+    background-color: white;
+}
+
+.right-to-left{
+    direction: rtl;
+}
+
+body{
+    margin: 0px;
+    background-color: lightgray;
+}
